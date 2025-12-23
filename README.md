@@ -1,3 +1,23 @@
+# Nature of Code
+---
+
+### 1. The Initial Scan
+The walker begins identifying the pixel coordinates for the text.
+<img width="800" alt="Image 1" src="https://github.com/user-attachments/assets/5a507256-5c11-48a2-af02-f1733073e872" />
+
+---
+
+### 2. Laser Tracing in Progress
+The particle system starts following the "Nature" path with the green neon stroke.
+<img width="800" alt="Image 2" src="https://github.com/user-attachments/assets/32736572-9dbb-4908-8869-d922ec212b86" />
+
+---
+
+### 3. Final Render
+The "Nature of Code" title is fully realized with the CSS neon pulse active.
+<img width="800" alt="Image 3" src="https://github.com/user-attachments/assets/50da2cf7-4e43-4afe-b896-21647518d8fb" />
+
+---
 # Perlin Noise
  Examples of notes and code that I took while learning about Perlin Noise with p5.js
 
